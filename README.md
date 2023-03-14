@@ -1,2 +1,2 @@
 # quran-audio-hafs-husary
-Quran Audio by Mahmoud Khalil Al-Husary
+Quran Audio for *Hafs* recitation by **Mahmoud Khalil Al-Husary**.
